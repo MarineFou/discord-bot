@@ -232,14 +232,14 @@ msgstr ""
 
 #: main.py:185
 msgid ""
-"une nouvelle planète !\n"
-"Voici donc la vidéo de présentation de cette planète ☺"
+"une nouvelle Planète !\n"
+"Voici donc la vidéo de présentation de cette Planète ☺"
 msgstr ""
 
 #: main.py:187
 msgid ""
-"de nouvelles planètes !\n"
-"Voici donc les vidéos de présentation de ces planètes ☺"
+"de nouvelles Planètes !\n"
+"Voici donc les vidéos de présentation de ces Planètes ☺"
 msgstr ""
 
 #: main.py:191
